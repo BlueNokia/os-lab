@@ -29,7 +29,7 @@ void firstFit(int blockSize[], int m,
 				blockSize[j] -= processSize[i]; 
 
 				break; 
-			} 
+			}
 		} 
 	} 
 
